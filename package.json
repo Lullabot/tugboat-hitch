@@ -22,11 +22,13 @@
   "homepage": "https://github.com/Lullabot/tugboat-hitch#readme",
   "dependencies": {
     "commander": "^2.9.0",
+    "figures": "^1.4.0",
     "hogan.js": "^3.0.2",
     "inquirer": "^0.12.0",
     "lodash": "^4.6.1",
     "nconf": "^0.8.4",
     "nodegit": "^0.11.9",
-    "promisify-node": "^0.3.0"
+    "promisify-node": "^0.3.0",
+    "rsync": "^0.4.0"
   }
 }
