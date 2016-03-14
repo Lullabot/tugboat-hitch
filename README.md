@@ -1,9 +1,9 @@
 # Integrate your project with [Tugboat](https://tugboat.qa)
 
-Hitch is a command line tool for integrating your project with [Tugboat]
-(https://tugboat.qa). It installs a scaffolding in your git repository
-for use with Tugboat. This includes a Makefile, and a tugboat directory
-with some starter shell scripts executed by the Makefile.
+Hitch is a command line tool for integrating your project with 
+[Tugboat](https://tugboat.qa). It installs a scaffolding in your git
+repository for use with Tugboat. This includes a Makefile, and a tugboat
+directory with some starter shell scripts executed by the Makefile.
 
 ## Installation
 
