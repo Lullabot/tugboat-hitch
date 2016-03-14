@@ -1,5 +1,5 @@
 #
-# Makefile for Project {{projectName}}
+# Makefile for {{projectName}}
 #
 # Includes commands for Tugboat. Feel free to expand with custom project
 # commands.
