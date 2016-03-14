@@ -1,6 +1,6 @@
 {
   "name": "tugboat-hitch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hitch your project to Tugboat",
   "bin": {
     "hitch": "./index.js"
