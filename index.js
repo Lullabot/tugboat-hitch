@@ -5,7 +5,7 @@ var program = require('./lib/program');
 
 // These are our commands. We don't need to instantiate them as variables.
 require('./lib/commands/init');
-require('./lib/commands/preview');
+require('./lib/commands/config');
 
 // Respond to help as a command too.
 program.command('help')
