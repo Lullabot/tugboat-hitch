@@ -35,7 +35,6 @@ repository, and push up to your origin.
 
 ```
 $ git add Makefile tugboat
-$ git commit -m "[tugboat] Adding initial Tugboat configuration and \
-scripts using hitch."
+$ git commit -m "[tugboat] Adding initial Tugboat configuration and scripts using hitch."
 $ git push
 ```
